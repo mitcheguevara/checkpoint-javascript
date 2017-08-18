@@ -11,8 +11,9 @@ var people = [
 // called `peoplesAges`.
 // Type your solution immediately below this line:
 
-function getAge(people, age) {
-  
+function getAges(people, age) {
+    var peoplesAges = [people.age]
+    return peoplesAges
 
 }
 
