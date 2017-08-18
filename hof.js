@@ -11,7 +11,10 @@ var people = [
 // called `peoplesAges`.
 // Type your solution immediately below this line:
 
+function getAge(people, age) {
+  
 
+}
 
 
 // #2: Use the `filter` array method to create a new, filtered array containing only
