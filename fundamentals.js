@@ -17,7 +17,7 @@ var favoriteColors = []
 
 // #4: Create a `for` loop that adds each string in `colors` to `favoriteColors`.
 // Type your solution immediately below this line:
-for(i = 0; l = colors.length; i < l; i++) {
+for(i = 0; i < colors.length; i++) {
   favoriteColors.push(colors[i])
 }
 
@@ -36,4 +36,4 @@ var instructor = {
 // it (do not change the original object you typed above) and assigning it
 // a boolean value.
 // Type your solution immediately below this line:
-instructor.'facial-hair' = 'false'
+instructor['facial-hair'] = false
